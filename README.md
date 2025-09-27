@@ -29,3 +29,9 @@ Quiz-App/
 │ ├── App.js # Root component
 │ ├── index.js # Entry point
 │── package.json # Dependencies and scripts
+
+---
+
+##👤 Author
+
+Vishal Verma
