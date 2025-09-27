@@ -32,6 +32,6 @@ Quiz-App/
 
 ---
 
-##👤 Author
+## 👤 Author
 
 Vishal Verma
