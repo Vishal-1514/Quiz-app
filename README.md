@@ -22,3 +22,10 @@ This project allows users to answer multiple-choice questions, track their score
 ---
 
 ## 📂 Project Structure
+Quiz-App/
+│── public/ # Static files
+│── src/
+│ ├── components/ # Reusable components
+│ ├── App.js # Root component
+│ ├── index.js # Entry point
+│── package.json # Dependencies and scripts
